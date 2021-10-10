@@ -16,4 +16,4 @@ I built this project following the instructions of the Udemy couse [The Complete
 
 ## Author
 
-- Github [@Maskoul](https://github.com/Maskoul)
+- Github [@Maskoul](https://github.com/maskoul-mohamed)
